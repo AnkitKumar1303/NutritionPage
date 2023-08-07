@@ -1,6 +1,6 @@
 Github Link: https://github.com/AnkitKumar1303/NutritionPage
 
-Hosted Link:
+Hosted Link:https://ankitkumar1303.github.io/NutritionPage/
 
 
 <img width="1440" alt="Screenshot 2023-08-07 at 11 22 35 PM" src="https://github.com/AnkitKumar1303/NutritionPage/assets/42855900/52d8c018-a335-407c-9d98-af8368ba57ba">
